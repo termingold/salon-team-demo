@@ -8,6 +8,7 @@ Klickbare **Demo** eines geteilten Team-Kalenders für Haardesign Da Giovanni, B
 - Reine Demo ohne Server: Alle Daten liegen nur im Browser (localStorage). Namen, Kund:innen und Termine sind Beispieldaten.
 - Die Kunden-App (https://termingold.github.io/salon-demo/) gleicht Terminwünsche, Buchungsmodus, Dauern und freie Zeiten **nur im selben Browser auf demselben Gerät** ab (gemeinsamer localStorage, kein Server) – auf anderen Geräten kommt **nicht** an.
 - Neu: „Online-Anfragen“ (Bestätigen / Verschieben), Umschalter Sofortbuchung/Anfrage (Inhaber), Dauer je Haarlänge unter „Leistungen“.
+- Neu: „KI-Telefon“ – simulierter KI-Telefonagent (Demo): nimmt Anrufe an, sagt offen, dass er eine KI ist, bucht freie Termine fest („per KI-Telefon gebucht“) oder leitet an den Salon weiter (0211 241886); Anrufprotokoll mit Transkript, Schalter nur für Inhaber:in. Mikrofon in Chrome/Edge, sonst Texteingabe.
 - Zwei Designs: „Klassisch“ (Standard) und „Glas“ (hell, Milchglas-Effekte) – umschaltbar in der Seitenleiste unter „Design“, gespeichert pro Gerät.
 - Dieses Repository enthält nur die gebauten, minifizierten Dateien, keinen Quellcode.
 
